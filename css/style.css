@@ -142,4 +142,24 @@ img {
     .steps .col {
         width: 100%;
     }
+    .why-us {
+        background-color: #222222;
+    }
+
+    .why-us {
+        margin-bottom: 0px;
+        padding-bottom: 3em;
+        padding-top: 3em;
+    }
+    .why-us .col-left {
+        width: 100%;
+        margin-bottom: 4em;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+    }
+    .steps {
+        margin-bottom: 0;
+    }
  }
